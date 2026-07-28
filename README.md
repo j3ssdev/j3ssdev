@@ -1,5 +1,15 @@
-<h1 align="center"><b>Hi, I'm Jesica Sama</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div>
+  <h1 align="center">
+    <img src="https://i.imgur.com/veZrcC7.gif" alt="Meow" width="50" />
+    Hello World!! Mi nombre es <a href="https://github.com/j3ssdev">Jesica Sama</a> 👋
+  </h1>
 
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=70&size=23&pause=7000&center=true&width=600&lines=Desarrolladora+de+Aplicaciones+Multiplataforma" />
+  </div>
+</div>
+
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="260" align="right">
 
 🌷 About Me
