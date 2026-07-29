@@ -18,7 +18,8 @@ I am a **Multiplatform Application Development (DAM)** student who enjoys creati
 I work with **HTML, CSS, Java, and JavaScript**, focusing on **good development practices**, **semantic code**, and **clean, user‑friendly designs**.
 
 ### 🌱 Currently Learning
-- Advanced Java  
+-   
+- I’m currently learning multiple programming languages as I explore my path as a developer.
 - Responsive design & CSS best practices  
 - Databases & information management  
 
