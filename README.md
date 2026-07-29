@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-    <img src="https://i.imgur.com/veZrcC7.gif" alt="Meow" width="50" />
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
     Hello World!! Mi nombre es <a href="https://github.com/j3ssdev">Jesica Sama</a> 👋
   </h1>
 
